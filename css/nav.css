@@ -1,0 +1,18 @@
+/* Icons of Nav */
+.iconsNav 
+{
+    width: 24px;
+    height: 24px;
+    color: #fff;
+}
+
+/* Text of Nav */
+.textNav
+{
+    font-family: sans-serif; /* 'DM Sans */
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
