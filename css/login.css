@@ -20,3 +20,59 @@
     align-items: center;
     color: #8692A6;
 }
+
+/* Label-small label del input*/
+.labelSmall{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    color: #696F79;
+}
+.inputLogin{
+    /* width: 426px;
+    height: 64px; */
+    padding: 10px 14px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 4px 10px 3px rgba(0, 0, 0, 0.11);
+    border-radius: 6px;
+}
+/* checkbox */
+.checkbox{
+    width: 20px;
+    height: 20px;
+}
+/* boton */
+.button{
+    /* width: 426px;
+    height: 64px; */
+    padding: 20px 186px;
+    background-color: #3E214C;
+    border-radius: 6px;
+}
+/* links de texto */
+.smallLink{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #3E214C;
+}
+/* mensaje de error */
+.errorMessage{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    color: #D63134;
+}
