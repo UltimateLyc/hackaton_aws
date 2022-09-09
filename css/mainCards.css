@@ -1,0 +1,32 @@
+/* Contendor principal de tarjetas */
+.cardContainer{
+    background-color: #E6E6FA;
+    border-radius: 9px;
+}
+.card{
+    background: #D8BFD8;
+    border-radius: 9px;
+    width: 294px;
+    height: 144px;
+}
+.carTitle{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+    display: flex;
+    align-items: center;
+    color: #3E214C;
+}
+.cardNumber{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #3E214C;
+}

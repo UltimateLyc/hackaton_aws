@@ -1,0 +1,54 @@
+.menuSide{
+    width: 270px;
+    height: 1024px; /* O 100vh*/
+}
+.sideTitle{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+    color: #FFFFFF;
+}
+/* foto de perfil */
+.profilePic{
+    width: 64px;
+    height: 64px;
+    border-radius: 100%;
+}
+/* nombre del usuario */
+.profileName{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    /* identical to box height, or 156% */
+    color: #FFFFFF;
+}
+.profileMail{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+/* secciones del sidebar */
+.sideOption{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+.sideOption:active{
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+    color: #BA6AE0;
+}
