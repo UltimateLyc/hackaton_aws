@@ -2,10 +2,13 @@
     font-family: Inter;
     src: url(../assets/fonts/Inter-VariableFont_slnt\,wght.ttf);
 }
-
+@font-face {
+    font-family: DM Sans;
+    src: url(../assets/fonts/DMSans-Regular.ttf);
+}
 *{
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Inter';
 }

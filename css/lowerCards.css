@@ -1,3 +1,12 @@
+@font-face {
+    font-family: Inter;
+    src: url(../assets/fonts/Inter-VariableFont_slnt\,wght.ttf);
+}
+@font-face {
+    font-family: DM Sans;
+    src: url(../assets/fonts/DMSans-Regular.ttf);
+}
+
 /* Tarjetas inferiores del dashboard */
 .mainLowContainer{
     width: 1112px;
